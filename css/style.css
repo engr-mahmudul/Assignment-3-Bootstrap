@@ -1,0 +1,69 @@
+/*-------------------------------------  Google Fonts */
+/* Poppins 600 */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+/* -------------------------------------Global items */
+p{
+    font-size: 16px;
+    font-weight: 300;
+}
+h1{
+    font-size: 48px;
+    font-family: 'Poppins', sans-serif;
+}
+.span-item{
+    color: #E76F51;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    
+}
+
+/* --------------------------------------Header-Section-CSS */
+
+.header-colors{
+    background-color: #264653;
+    color: white;
+}
+.header-button{
+    background-color: #E76F51;
+}.modal-font-color{
+    color: black;
+}
+/* --------------------------------------Featured Bike Section  */
+h6{
+    color: #E76F51;
+}
+.grayscale-filter{
+    filter: grayscale(100%);
+}
+/* -----------------------------------------Happy-Client Section  */
+.image-center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.card-h5-color{
+    color: #23A6F0;
+}
+/* ------------------------------------------------------------FAQ */
+.margin-top{
+    margin-top: 112px;
+}
+.image-height{
+    height: 400px;
+}
+
+/* ----------------------------------------------Photoshot Section  */
+.photo-shot-bg{
+    background-color: rgba(241, 216, 220, 0.293);
+}
+/* -------------------------------------------Additional Bike section  */
+.additional-img{
+    display: block;
+    
+    height: 200px;
+}
